@@ -11,14 +11,14 @@ html { /* This stuff is for the sticky footer. */
     font-family: 'Palatino Linotype', Palatino, Georgia, serif;
     min-height:100%;
     position:relative;
-    font-size: 14px;
+    font-size: 16px;
     -webkit-font-smoothing: antialiased;
 }
 
 body {
     background-color: white;
     font-family: 'Palatino Linotype', Palatino, Georgia, serif;
-    margin: 20px auto 100px auto; /* For sticky footer. */
+    margin: 20px auto 60px auto; /* For sticky footer. */
 }
 
 /* Site header. */
@@ -58,13 +58,14 @@ ul li {
 
 h2 {
   font-size: 1.2em;
-  color: black;
+  color: purple;
 }
 
 h3{
   font-size: 1.2em;
   margin-top: 0.7em;
   margin-bottom: 0.7px;
+  color: purple;
 }
 
 p{
