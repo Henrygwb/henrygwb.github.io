@@ -18,7 +18,7 @@ html { /* This stuff is for the sticky footer. */
 body {
     background-color: white;
     font-family: 'Palatino Linotype', Palatino, Georgia, serif;
-    margin: 20px auto 20px auto; /* For sticky footer. */
+    margin: 20px auto 40px auto; /* For sticky footer. */
     line-height: 1.2
 }
 
