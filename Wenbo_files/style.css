@@ -3,9 +3,10 @@
 
 /* General stuff. */
 
-body {
+/* body {
     width: 2048px; margin:0; auto; 
 }
+ */
 
 html { /* This stuff is for the sticky footer. */
     font-family: 'Palatino Linotype', Palatino, Georgia, serif;
