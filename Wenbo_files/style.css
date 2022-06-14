@@ -4,7 +4,7 @@
 /* General stuff. */
 
 body {
-    width: 1024px; margin:0; auto; 
+    width: 2048px; margin:0; auto; 
 }
 
 html { /* This stuff is for the sticky footer. */
@@ -18,7 +18,7 @@ html { /* This stuff is for the sticky footer. */
 body {
     background-color: white;
     font-family: 'Palatino Linotype', Palatino, Georgia, serif;
-    margin: 20px auto 60px auto; /* For sticky footer. */
+    margin: 20px auto 40px auto; /* For sticky footer. */
 }
 
 /* Site header. */
@@ -57,12 +57,12 @@ ul li {
 }
 
 h2 {
-  font-size: 1.2em;
+  font-size: 1.4em;
   color: purple;
 }
 
 h3{
-  font-size: 1.2em;
+  font-size: 1.4em;
   margin-top: 0.7em;
   margin-bottom: 0.7px;
   color: purple;
